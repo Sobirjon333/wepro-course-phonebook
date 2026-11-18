@@ -1,0 +1,11 @@
+# Python cache and local virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local contact records
+data/contacts.json
+
+# macOS files
+.DS_Store
